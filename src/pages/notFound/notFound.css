@@ -1,0 +1,7 @@
+.notFound__container{
+    display:grid;
+    grid-template-rows: auto;
+    place-items: center;
+    gap: 5rem;
+    text-align: center;
+}
